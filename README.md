@@ -19,6 +19,9 @@ Full-stack SWE with 2+ years of experience building distributed systems, APIs, a
 ### [Smart SM-2 Flashcard Platform](https://github.com/Maitreyi-P/Smart-SM-2-Based-Flashcard-Platform)
 AI-powered flashcard generator with spaced repetition. Upload a PDF → get flashcards. Built with ReactJS + Spring Boot + Python/Flask (LLaMA), deployed on AWS ECS via Terraform + Kubernetes.
 
+### [Go API Gateway](https://github.com/Maitreyi-P/Go-API-Gateway/)
+A lightweight, self-contained API gateway in Go, with custom rate-limiter and circuit-breaker logic. Integrates Prometheus and Grafana for metrics tracking and observability. Containerized using Docker, deployable anywhere. 
+
 ### [Distributed Google File System](https://github.com/Maitreyi-P/GFS-python)
 Python implementation of the GFS paper — namenode/datanode separation, chunk replication, heartbeat-based failure recovery. Verified under simulated failure conditions.
 
@@ -36,5 +39,5 @@ Python implementation of the GFS paper — namenode/datanode separation, chunk r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maitreyi-p)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maitreyip05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=framer&logoColor=white)](https://maitreyi-portfolio.framer.ai/)
+
 
